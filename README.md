@@ -19,7 +19,7 @@ If you would like further information on my backgroud, please see my LinkedIn pa
 </p>
 
 ## Interests:
-I am interested in persuing a career in Cybersecurity or Systems Engineering. I would like to gain more experience and eventually transition to cloud engineering or cloud 
+I am interested in pursuing a career in Cybersecurity or Systems Engineering. I would like to gain more experience and eventually transition to cloud engineering or cloud 
 security. For the last 3 years of my Marine Corps career, I have been learning about cybersecurity and implementing different cybersecurity technologies. I would love to take on 
 new challenges and continue to grow as an informatin security professional. I would love to take my skills and contribute to a team of cybersecurity professionals. I am interested 
 in taking the knowledge that I have gained in the Marine Corps and applying it to a civilian career. I learn fast and am eager to continue growing personally and professionally.
