@@ -4,7 +4,10 @@
 >-Robin Williams
 
 ## About Me:
-    I am a Marine Corps veteran with over 7 years of active service. I am a Systems Engineer pursuing my bachelors degree in Cyber Security and Information Assurance. I have a passion for Information Security and learning new things. I thrive in situations where I need to learn a new skill in order to complete a task given to me. When I am not at work, I am a family man. I have a beautiful wife and two healthy growing boys. Everhting I do I do for them to make sure that they have everything they could possibly want or need. I enjoy working out, working on cars, and I enjoy the outdoors. 
+I am a Marine Corps veteran with over 7 years of active service. I am a Systems Engineer pursuing my bachelors degree in Cyber Security and Information Assurance. I have a passion 
+for Information Security and learning new things. I thrive in situations where I need to learn a new skill in order to complete a task given to me. When I am not at work, I am a 
+family man. I have a beautiful wife and two healthy growing boys. Everhting I do I do for them to make sure that they have everything they could possibly want or need. I enjoy 
+working out, working on cars, and I enjoy the outdoors. 
 
 If you would like further information on my backgroud, please see my LinkedIn page [here](https://www.linkedin.com/in/forest-nett-a8b839151/). 
 
@@ -15,5 +18,8 @@ If you would like further information on my backgroud, please see my LinkedIn pa
     <img src="/images/Range.jpg" width="25%" title="Range" />
 </p>
 ## Interests:
-    I am interested in persuing a career in Cybersecurity or Systems Engineering. I would like to gain more experience and eventually transition to cloud engineering or cloud security. For the last 3 years of my Marine Corps career, I have been learning about cybersecurity and implementing different cybersecurity technologies. I would love to take on new challenges and continue to grow as an informatin security professional. I would love to take my skills and contribute to a team of cybersecurity professionals. I am interested in taking the knowledge that I have gained in the Marine Corps and applying it to a civilian career. I learn fast and am eager to continue growing personally and professionally.
+I am interested in persuing a career in Cybersecurity or Systems Engineering. I would like to gain more experience and eventually transition to cloud engineering or cloud 
+security. For the last 3 years of my Marine Corps career, I have been learning about cybersecurity and implementing different cybersecurity technologies. I would love to take on 
+new challenges and continue to grow as an informatin security professional. I would love to take my skills and contribute to a team of cybersecurity professionals. I am interested 
+in taking the knowledge that I have gained in the Marine Corps and applying it to a civilian career. I learn fast and am eager to continue growing personally and professionally.
 
