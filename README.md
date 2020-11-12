@@ -5,9 +5,9 @@
 
 ## About Me:
 I am a Marine Corps veteran with over 7 years of active service. I am a Systems Engineer pursuing my bachelors degree in Cyber Security and Information Assurance. I have a passion 
-for Information Security and learning new things. I thrive in situations where I need to learn a new skill in order to complete a task given to me. When I am not at work, I am a 
-family man. I have a beautiful wife and two healthy growing boys. Everhting I do I do for them to make sure that they have everything they could possibly want or need. I enjoy 
-working out, working on cars, and I enjoy the outdoors. 
+for Information Security and learning new things. I thrive in situations where I need to learn a new skill in order to complete a task given to me. When I love spending time with 
+my family when the work day is done. I have a beautiful wife and two healthy growing boys. Everything I do, I do with them in mind to make sure that they have everything they 
+could possibly want or need. I enjoy the outdoors, working out, and building things. 
 
 If you would like further information on my backgroud, please see my LinkedIn page [here](https://www.linkedin.com/in/forest-nett-a8b839151/). 
 
