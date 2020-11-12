@@ -5,5 +5,5 @@ I'm a Systems Engineer pursuing my bachelors degree in Cyber Security and Inform
 If you would like further information on my backgroud, please see my LinkedIn page [here](https://www.linkedin.com/in/forest-nett-a8b839151/). 
 
 <p float="middle">
-    <img src="/projects/Family.jpg" width="26%" title="My family" />
+    <img src="/images/Family.jpg" width="26%" title="My family" />
 </p>
