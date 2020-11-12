@@ -6,3 +6,4 @@ If you would like further information on my backgroud, please see my LinkedIn pa
 
 <p float="middle">
     <img src="/projects/Family.jpg" width="26%" title="My family" />
+</p>
