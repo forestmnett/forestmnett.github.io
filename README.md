@@ -17,6 +17,7 @@ If you would like further information on my backgroud, please see my LinkedIn pa
     <img src="/images/Fishing.jpg" width="25%" title="Fishing" />
     <img src="/images/Range.jpg" width="25%" title="Range" />
 </p>
+
 ## Interests:
 I am interested in persuing a career in Cybersecurity or Systems Engineering. I would like to gain more experience and eventually transition to cloud engineering or cloud 
 security. For the last 3 years of my Marine Corps career, I have been learning about cybersecurity and implementing different cybersecurity technologies. I would love to take on 
