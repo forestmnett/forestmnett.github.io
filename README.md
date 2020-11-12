@@ -1,3 +1,7 @@
+>No matter what people tell you words 
+>and ideas can change the world.
+>
+>-Robin Williams
 # Forest Nett's Projects
 A repository for my projects and test applications
 ## About Me:
