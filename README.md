@@ -12,10 +12,10 @@ working out, working on cars, and I enjoy the outdoors.
 If you would like further information on my backgroud, please see my LinkedIn page [here](https://www.linkedin.com/in/forest-nett-a8b839151/). 
 
 <p float="middle">
-    <img src="/images/Family.jpg" width="25%" title="My family" />
-    <img src="/images/ColorRun.JPG" width="25%" title="ColorRun" />
-    <img src="/images/Fishing.jpg" width="25%" title="Fishing" />
-    <img src="/images/Range.jpg" width="25%" title="Range" />
+    <img src="/images/Family.jpg" width="23%" title="My family" />
+    <img src="/images/ColorRun.JPG" width="23%" title="ColorRun" />
+    <img src="/images/Fishing.jpg" width="23%" title="Fishing" />
+    <img src="/images/Range.jpg" width="23%" title="Range" />
 </p>
 
 ## Interests:
