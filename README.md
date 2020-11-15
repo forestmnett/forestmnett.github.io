@@ -9,7 +9,7 @@ for Information Security and learning new things. I thrive in situations where I
 my family when the work day is done. I have a beautiful wife and two healthy growing boys. Everything I do, I do with them in mind to make sure that they have everything they 
 could possibly want or need. I enjoy the outdoors, working out, and building things. 
 
-If you would like further information on my backgroud, please see my LinkedIn page [here](https://www.linkedin.com/in/forest-nett-a8b839151/). 
+If you would like further information on my background, please see my LinkedIn page [here](https://www.linkedin.com/in/forest-nett-a8b839151/). 
 
 <p float="middle">
     <img src="/images/Family.jpg" width="22%" title="My family" />
