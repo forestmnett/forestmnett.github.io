@@ -1,5 +1,5 @@
 ---
-- name: tree_play
+- name: Install App (tree)
   hosts: rhel_servers
   remote_user: pwb        
   become: true
@@ -8,7 +8,7 @@
   connection: ssh
   tasks: 
    
-    - name: install tree
+    - name: Install tree
       yum:
         state: present
         name:
